@@ -23,7 +23,7 @@ class _LoginScreenState extends State<LoginScreen> {
 
     await Future.delayed(Duration(seconds: 2));
 
-    if (emailController.text == "admin@test.com" &&
+    if (emailController.text == "admin@tes.com" &&
         passwordController.text == "Admin123") {
       ScaffoldMessenger.of(
         context,
