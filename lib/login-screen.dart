@@ -125,7 +125,7 @@ class _LoginScreenState extends State<LoginScreen> {
                     onPressed: () {
                       Navigator.pushNamed(context, '/forgot');
                     },
-                    child: Text("Lupa Password?"),
+                    child: Text("Lupa Password"),
                   ),
                 ),
 
