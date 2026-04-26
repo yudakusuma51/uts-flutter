@@ -58,7 +58,7 @@ class DashboardScreen extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text("Dashboard"),
+        title: Text("Dashboard User"),
         actions: [
           IconButton(
             icon: Icon(Icons.logout),
