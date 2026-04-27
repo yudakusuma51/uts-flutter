@@ -36,4 +36,7 @@ Aplikasi ini juga menyediakan fitur lupa password untuk mengatur ulang akun, ser
 4. Jalankan aplikasi: flutter run
 
 Berikut screenshot halaman login:
+![Login](images/login.png)
+Berikut screenshot halaman lupa password:
+Berikut screenshot halaman dashboard:
   
