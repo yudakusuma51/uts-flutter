@@ -38,10 +38,13 @@ Aplikasi ini juga menyediakan fitur lupa password untuk mengatur ulang akun, ser
 ---
 
 Berikut screenshot halaman login:
+
 ![Login](images/Login.png)
 
 Berikut screenshot halaman lupa password:
+
 ![Lupa Password](images/Forgot_password.png)
 
 Berikut screenshot halaman dashboard:
+
 ![Dashboard](images/Dashboard.png)
