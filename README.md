@@ -15,8 +15,8 @@ Aplikasi ini juga menyediakan fitur lupa password untuk mengatur ulang akun, ser
 - Navigasi ke halaman reset password
 - Dashboard dengan tampilan data dummy
 - Tampilan data dummy seperti:
-  - Pesanan baru
-  - Pembayaran
+  -- Pesanan baru
+  -- Pembayaran
   - Pengiriman
   - Promo
   - Update
