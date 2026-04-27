@@ -1,17 +1,39 @@
-# appmobile
+# UTS Flutter - Mobile Programming 
 
-A new Flutter project.
+## Deskripsi Aplikasi
+APP MOBILE adalah aplikasi berbasis Flutter yang memiliki sistem autentikasi sederhana. 
+Pengguna dapat melakukan login menggunakan username dan password, serta mengakses halaman dashboard setelah berhasil masuk.
+Aplikasi ini juga menyediakan fitur lupa password untuk mengatur ulang akun, serta menampilkan informasi aktivitas pengguna pada dashboard.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Daftar Fitur
+- Halaman Login (username & password)
+- Show / Hide password
+- Validasi input login
+- Fitur Lupa Password (reset via email)
+- Navigasi ke halaman reset password
+- Dashboard dengan tampilan data dummy
+- Tampilan data dummy seperti:
+  - Pesanan baru
+  - Pembayaran
+  - Pengiriman
+  - Promo
+  - Update
+  - Notifikasi
+  - Akun
+  - Keamanan
+  - Transaksi
+  - informasi Sistem
+- Logout sistem
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Cara Menjalankan Aplikasi
+1. Clone repository flutter ini
+2. Masuk ke folder project: cd appmobile
+3. Install dependencies dengan cara: flutter pub get
+4. Jalankan aplikasi: flutter run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Berikut screenshot halaman login:
+  
