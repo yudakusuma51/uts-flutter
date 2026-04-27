@@ -8,24 +8,24 @@ Aplikasi ini juga menyediakan fitur lupa password untuk mengatur ulang akun, ser
 ---
 
 ## Daftar Fitur
-- Halaman Login (username & password)
-- Show / Hide password
-- Validasi input login
-- Fitur Lupa Password (reset via email)
-- Navigasi ke halaman reset password
-- Dashboard dengan tampilan data dummy
-- Tampilan data dummy seperti:
-        - Pesanan baru
-        - Pembayaran
-        - Pengiriman
-        - Promo
-        - Update
-        - Notifikasi
-        - Akun
-        - Keamanan
-        - Transaksi
-        - informasi Sistem
-- Logout sistem
+1. Halaman Login (username & password)
+2. Show / Hide password
+3. Validasi input login
+4. Fitur Lupa Password (reset via email)
+5. Navigasi ke halaman reset password
+6. Dashboard dengan tampilan data dummy
+7. Tampilan data dummy seperti:
+   - Pesanan baru
+   - Pembayaran
+   - Pengiriman
+   - Promo
+   - Update
+   - Notifikasi
+   - Akun
+   - Keamanan
+   - Transaksi
+   - informasi Sistem
+8. Logout sistem
 
 ---
 
