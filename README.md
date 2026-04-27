@@ -35,6 +35,7 @@ Aplikasi ini juga menyediakan fitur lupa password untuk mengatur ulang akun, ser
 3. Install dependencies dengan cara: flutter pub get
 4. Jalankan aplikasi: flutter run
 
+---
 
 Berikut screenshot halaman login:
 ![Login](images/Login.png)
